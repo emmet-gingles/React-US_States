@@ -1,7 +1,7 @@
 # Instructions
 
 1. Download Node.js from https://nodejs.org/en/download/
-2. Run the following commands from command line:
+2. Run the following commands from command line: <br/>
 	npm install react <br/>
 	npm install react-dom <br/>
 	npm install react-bootstrap 
