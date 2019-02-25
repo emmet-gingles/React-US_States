@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Table from 'react-bootstrap/Table';			/* use to apply Bootstrap style to table */
 import StateInfo from "./StateInfo";				/* import StateInfo component */
 import Searchbox from "./Searchbox";				/* import Searchbox component */
-import "./style/style.css";								/* import CSS stylesheet */
+import "./style/style.css";							/* import CSS stylesheet */
 var file = require('./data/states.json');			/* file that will be read */
 
 
