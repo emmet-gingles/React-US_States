@@ -1,7 +1,6 @@
-import React, { Component } from "react";
+import React, { Component } from "react";			// Import React and Component modules
 
-/* This class displays the properties of each state within a table row */
-
+// This class displays the properties of each state within a table row 
 class StateInfo extends Component {
 	
 	render() {
@@ -17,4 +16,5 @@ class StateInfo extends Component {
 	}
 }
 
+// Export class component
 export default StateInfo;

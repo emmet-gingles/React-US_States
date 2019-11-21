@@ -1,9 +1,9 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import List from "./List"				/* import List component */
+import React from "react"				// Import React module
+import ReactDOM from "react-dom"        // Import React  module 
+import List from "./List"				// Import List component 
 
-/* use DOM to select div with the id "container" */
+// Use DOM to select div with the id "container" 
 var destination = document.querySelector("#container");
 
-/* render the List component within the div selected */
+// Render the List component within the div selected
 ReactDOM.render(<List />, destination);
